@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+span {
+  padding: 0px 10px;
+}
+
+li {
+  display: flex;
+}
+ul {
+  padding: 0;
+}
+.text-left {
+  text-align: left;
+}
